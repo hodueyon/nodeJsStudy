@@ -62,3 +62,4 @@ app.use("/", home); //use -> 미들웨어를 등록해주는 메서드
 // npm install express -s or express --save 이건 룰임
 
 module.exports = app;
+//npm init  //npm init -y //npm js 홈페이지 참고
